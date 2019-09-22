@@ -1,0 +1,11 @@
+D:\ITEA\C# advanced\CSharp_Advanced-master\1_Collections\bin\Debug\netcoreapp2.1\1_Collections.deps.json
+D:\ITEA\C# advanced\CSharp_Advanced-master\1_Collections\bin\Debug\netcoreapp2.1\1_Collections.runtimeconfig.json
+D:\ITEA\C# advanced\CSharp_Advanced-master\1_Collections\bin\Debug\netcoreapp2.1\1_Collections.runtimeconfig.dev.json
+D:\ITEA\C# advanced\CSharp_Advanced-master\1_Collections\bin\Debug\netcoreapp2.1\1_Collections.dll
+D:\ITEA\C# advanced\CSharp_Advanced-master\1_Collections\bin\Debug\netcoreapp2.1\1_Collections.pdb
+D:\ITEA\C# advanced\CSharp_Advanced-master\1_Collections\obj\Debug\netcoreapp2.1\1_Collections.csprojAssemblyReference.cache
+D:\ITEA\C# advanced\CSharp_Advanced-master\1_Collections\obj\Debug\netcoreapp2.1\1_Collections.csproj.CoreCompileInputs.cache
+D:\ITEA\C# advanced\CSharp_Advanced-master\1_Collections\obj\Debug\netcoreapp2.1\1_Collections.AssemblyInfoInputs.cache
+D:\ITEA\C# advanced\CSharp_Advanced-master\1_Collections\obj\Debug\netcoreapp2.1\1_Collections.AssemblyInfo.cs
+D:\ITEA\C# advanced\CSharp_Advanced-master\1_Collections\obj\Debug\netcoreapp2.1\1_Collections.dll
+D:\ITEA\C# advanced\CSharp_Advanced-master\1_Collections\obj\Debug\netcoreapp2.1\1_Collections.pdb
